@@ -9,7 +9,7 @@
 ### 🧰 Projects
 - [Rock, Paper, Scissors Game](https://github.com/mosfaka/mosfaka-rock-paper-scissors-python) – My first Python mini-game
 
-### 🌱 Current Goals
+### Current Goals
 - Master Python fundamentals  
 - Explore Data Analysis tools  
 - Learn Git and GitHub collaboration  
