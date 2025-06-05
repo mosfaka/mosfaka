@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I am Mosfaka Shorna
 
-<!--
-**mosfaka/mosfaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Major at Schoolcraft College  
+🌍 Based in Michigan | she/her  
+💡 Aspiring Software Developer & Data Analyst  
+🔰 Python Beginner | Problem Solver | Visual Learner  
+📂 I am learning to build cool things & share my journey here!
 
-Here are some ideas to get you started:
+### 🧰 Projects
+- [Rock, Paper, Scissors Game](https://github.com/mosfaka/mosfaka-rock-paper-scissors-python) – My first Python mini-game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Goals
+- Master Python fundamentals  
+- Explore Data Analysis tools  
+- Learn Git and GitHub collaboration  
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mosfaka-shorna-830b89369)
+
+---
+
+> 💻 *"Every line of code is a step forward."*
