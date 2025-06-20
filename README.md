@@ -15,7 +15,7 @@
 - Learn Git and GitHub collaboration  
 
 ### 📬 Connect with Me
-[![LinkedIn]([https://www.linkedin.com/in/mosfaka-shorna-830b89369](https://www.linkedin.com/in/mosfaka-shorna-015338370/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mosfaka-shorna-015338370/)
 
 ---
 
