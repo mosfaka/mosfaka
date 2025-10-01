@@ -1,9 +1,6 @@
 # Hi, I am Mosfaka Shorna
-
-🎓 Computer Science Major at Schoolcraft College  
-🌍 Based in Michigan | she/her  
-💡 Aspiring Software Developer & Data Analyst  
-🔰 Python Beginner | Problem Solver | Visual Learner  
+  
+🔰 Problem Solver | Visual Learner  
 📂 I am learning to build cool things & share my journey here!
 
 ### 🧰 Projects
